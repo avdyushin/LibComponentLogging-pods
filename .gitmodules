@@ -1,0 +1,3 @@
+[submodule "configure"]
+	path = configure
+	url = https://github.com/aharren/LibComponentLogging-configure.git
